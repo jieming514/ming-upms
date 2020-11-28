@@ -1,0 +1,7 @@
+*.iml
+.idea
+*.log
+**/target
+/ming-admin/module_ming-admin.xml
+/ming-common/module_ming-common.xml
+/ming-upms/module_ming-upms.xml
